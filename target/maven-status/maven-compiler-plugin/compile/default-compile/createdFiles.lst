@@ -1,0 +1,12 @@
+org\emna\webmail\controller\MailRestController.class
+org\emna\webmail\model\Mail.class
+org\emna\webmail\dao\MailDao.class
+org\emna\webmail\dao\org\emna\webmail\dao\Impl\UserDaoImpl.class
+org\emna\webmail\model\User.class
+org\emna\webmail\dao\UserDao.class
+org\emna\webmail\controller\UserRestController.class
+org\emna\webmail\service\UserService.class
+org\emna\webmail\dao\org\emna\webmail\dao\Impl\MailDaoImpl.class
+org\emna\webmail\service\MailService.class
+org\emna\webmail\service\org\emna\webmail\service\Impl\UserServiceImpl.class
+org\emna\webmail\service\org\emna\webmail\service\Impl\MailServiceImpl.class
